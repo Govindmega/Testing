@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-    printf("how it works,dont knowsrk");
+    printf("how it works,dont knowsrks");
 }
